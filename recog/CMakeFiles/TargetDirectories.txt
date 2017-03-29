@@ -1,0 +1,3 @@
+/home/amb/code/graphics/opencv/recog/CMakeFiles/rebuild_cache.dir
+/home/amb/code/graphics/opencv/recog/CMakeFiles/edit_cache.dir
+/home/amb/code/graphics/opencv/recog/CMakeFiles/app.dir
